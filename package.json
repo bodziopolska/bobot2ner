@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "chalk": "^4.1.0",
+    "cheerio": "*",
+    "discord-ytdl-core": "^5.0.1",
+    "discord.js": "^12.5.1",
+    "discord.js-pagination": "^1.0.3",
+    "dotenv": "^8.2.0",
+    "jsdom": "^16.5.1",
+    "merge-options": "^3.0.4",
+    "node-fetch": "^2.6.1",
+    "parse-ms": "^2.1.0",
+    "random-puppy": "^1.1.0",
+    "reverbnation-scraper": "^2.0.0",
+    "soundcloud-scraper": "^4.0.3",
+    "spotify-url-info": "^2.2.0",
+    "weather.js": "^0.1.0",
+    "youtube-sr": "^4.0.3",
+    "ytdl-core": "^4.5.0"
+  },
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "Najlepszy bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
